@@ -3,4 +3,5 @@ Analysis of an economic time serie to forecast the trend of renewable energy pro
 
 Analyzed financial time series data on Generali S.P.A.'s stock exchange performance, applying advanced statistical models to predict market trends and provide actionable insights for investors, resulting in improved investment decision-making. (TSA FINANZIARIA.R)
 
-The other scripts contain useful functions that can be invoked in the main scripts. both scripts can be used again for any type of time series analysis adapting them to the need
+The other scripts contain useful functions that can be invoked in the main scripts. 
+Both main scripts can be used again for any type of time series analysis adapting them to the need
